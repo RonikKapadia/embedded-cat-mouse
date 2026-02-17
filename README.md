@@ -144,7 +144,7 @@ The [`shader/preview.fs`](shader/preview.fs) file contains the complete Fragment
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/embedded-cat-mouse.git
+   git clone https://github.com/RonikKapadia/embedded-cat-mouse.git
    cd embedded-cat-mouse
    ```
 
